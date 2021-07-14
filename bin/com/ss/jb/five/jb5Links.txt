@@ -1,0 +1,8 @@
+Test Classes for JB5:
+https://github.com/brunoara21/ss_essentials_jul21/tree/main/tests/com/ss/jb/tests
+
+JB5 Assignments:
+https://github.com/brunoara21/ss_essentials_jul21/tree/main/src/com/ss/jb/five
+
+Week1 Assignments:
+https://github.com/brunoara21/ss_essentials_jul21/tree/main/src/com/ss/jb/wk1
